@@ -1,0 +1,14 @@
+{
+  "name": "partner-quality-audit",
+  "description": "AI-guided orchestration workflow for performing a full Partner Quality Audit (PQA) on Xperience by Kentico projects. Analyses the environment, configuration, and produces a final HTML report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kentico",
+    "email": "jank2@kentico.com"
+  },
+  "license": "MIT",
+  "keywords": ["pqa", "audit", "kentico", "xperience", "quality", "partner"],
+  "category": "quality",
+  "agents": "agents/",
+  "prompts": "prompts/"
+}

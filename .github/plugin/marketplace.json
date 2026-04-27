@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Curated Copilot CLI plugins for the Kentico team",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "plugins": [
     {
@@ -44,6 +44,18 @@
       },
       "keywords": ["secret", "code", "team"],
       "category": "utilities"
+    },
+    {
+      "name": "partner-quality-audit",
+      "description": "AI-guided orchestration workflow for performing a full Partner Quality Audit (PQA) on Xperience by Kentico projects. Analyses the environment, configuration, and produces a final HTML report.",
+      "version": "1.0.0",
+      "source": "plugins/partner-quality-audit",
+      "author": {
+        "name": "Kentico",
+        "email": "jank2@kentico.com"
+      },
+      "keywords": ["pqa", "audit", "kentico", "xperience", "quality", "partner"],
+      "category": "quality"
     }
   ]
 }

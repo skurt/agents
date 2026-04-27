@@ -14,4 +14,3 @@ Call the prompt file #file:.github/prompts/apqa_12_questionaire.prompt.md and wa
 ## Step 3: Run Script
 
 Call the prompt file #file:.github/prompts/apqa_13_script.prompt.md and wait for it to complete.
-

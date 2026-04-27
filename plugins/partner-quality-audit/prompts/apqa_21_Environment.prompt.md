@@ -3,7 +3,7 @@ mode: agent
 description: 'Describe the project environment'
 ---
 # Step: Title
-Add s subtitle "Project environment" to the output file
+Add a subtitle "Project environment" to the output file
 
 # Step: Identify project's hosting model
 From the available information, determine how is this project hosted.
@@ -31,7 +31,7 @@ If you cannot find the the related information, still answer with one bullet poi
 Enter the bullet point into the output file.
 ## Step: Questions related to SaaS
 - Is this project performing well or are the in need of additional auto scale instances?
-- Call #file:./pqa_check_feature.prompt.md with parameter SaaS configuration.
+- Call #file:.github/prompts/pqa_check_feature.prompt.md with parameter SaaS configuration.
 - What is their strategy for backups and restores? 
 ## Step: Question related to Cloud
 - Name their Cloud provider
