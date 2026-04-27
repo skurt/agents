@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Curated Copilot CLI plugins for the Kentico team",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "secret-code",
       "description": "Reveals the secret team code.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "plugins/secret-code",
       "author": {
         "name": "Kentico",
