@@ -1,0 +1,13 @@
+{
+  "name": "secret-code",
+  "description": "Reveals the secret team code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kentico",
+    "email": "jank2@kentico.com"
+  },
+  "license": "MIT",
+  "keywords": ["secret", "code", "team"],
+  "category": "utilities",
+  "agents": "agents/"
+}
