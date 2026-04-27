@@ -1,0 +1,39 @@
+{
+  "name": "skurt-marketplace",
+  "owner": {
+    "name": "Kentico",
+    "email": "jank2@kentico.com"
+  },
+  "metadata": {
+    "description": "Curated Copilot agents and prompts for the Kentico team",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "description": "AI agent for building accessible, professional UI components and layouts. Includes a /create-ui-component prompt for generating new components from a description.",
+      "version": "1.0.0",
+      "agent": "../agents/frontend-design.agent.md",
+      "prompts": [
+        "../prompts/create-ui-component.prompt.md"
+      ]
+    },
+    {
+      "name": "security-checks",
+      "description": "AI agent for auditing code against the OWASP Top 10 and common security vulnerabilities. Includes a /security-audit prompt for on-demand scanning of files or features.",
+      "version": "1.0.0",
+      "agent": "../agents/security-checks.agent.md",
+      "prompts": [
+        "../prompts/security-audit.prompt.md"
+      ]
+    },
+    {
+      "name": "secret-code",
+      "description": "Reveals the secret team code.",
+      "version": "1.0.0",
+      "prompts": [
+        "../prompts/secret-code.prompt.md"
+      ]
+    }
+  ]
+}
