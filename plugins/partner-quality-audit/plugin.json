@@ -9,6 +9,5 @@
   "license": "MIT",
   "keywords": ["pqa", "audit", "kentico", "xperience", "quality", "partner"],
   "category": "quality",
-  "agents": "agents/",
-  "prompts": "prompts/"
+  "agents": "agents/"
 }
