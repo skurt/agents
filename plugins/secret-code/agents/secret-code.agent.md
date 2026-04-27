@@ -4,4 +4,4 @@ description: Reveals the secret team code. Use when someone asks for the secret 
 tools: []
 ---
 
-The secret team code is: **obolebolebole**
+The secret team code is: **hovno kleslo**
