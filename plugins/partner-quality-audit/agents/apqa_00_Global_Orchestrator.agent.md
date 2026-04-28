@@ -8,12 +8,12 @@ tools: [read, edit, search, execute]
 
 ## Step 1: Data and Input Collection
 
-Call the prompt file #file:.github/prompts/apqa_10_orchestrate_environment.prompt.md and wait for it to complete.
+Call the prompt file #file:../prompts/apqa_10_orchestrate_environment.prompt.md and wait for it to complete.
 
 ## Step 2: General and Configuration
 
-Call the prompt file #file:.github/prompts/apqa_20_General_orchestration.prompt.md and wait for it to complete.
+Call the prompt file #file:../prompts/apqa_20_General_orchestration.prompt.md and wait for it to complete.
 
 ## Step 3: Produce Final Document
 
-Call the prompt file #file:.github/prompts/apqa_90_Produce_final_document.prompt.md and wait for it to complete.
+Call the prompt file #file:../prompts/apqa_90_Produce_final_document.prompt.md and wait for it to complete.

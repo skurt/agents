@@ -13,7 +13,7 @@ There are three available options:
 - [SaaS] refers specificaly to the cloud environment that Kentico provides with the sole purpose of running, sustaining and upkeeping and XbK instance as simply as possible.
 
 # Step: Confirm hosting model
-Call #file:.github/prompts/apqa_21a_Confirm_hosting_model.prompt.md and wait for it to complete.
+Call #file:./apqa_21a_Confirm_hosting_model.prompt.md and wait for it to complete.
 
 # Step: Non hosting related questions
 Based on the available information try to determine all of the following points.
@@ -31,7 +31,7 @@ If you cannot find the the related information, still answer with one bullet poi
 Enter the bullet point into the output file.
 ## Step: Questions related to SaaS
 - Is this project performing well or are the in need of additional auto scale instances?
-- Call #file:.github/prompts/pqa_check_feature.prompt.md with parameter SaaS configuration.
+- Call #file:./pqa_check_feature.prompt.md with parameter SaaS configuration.
 - What is their strategy for backups and restores? 
 ## Step: Question related to Cloud
 - Name their Cloud provider
