@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: 'Establishes terminology and output file path for the PQA workflow'
 ---
 

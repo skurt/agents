@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: 'Describes the project configuration'
 ---
 # Step: Title

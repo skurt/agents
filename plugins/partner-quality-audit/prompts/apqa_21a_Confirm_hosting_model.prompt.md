@@ -1,5 +1,5 @@
 ---
-mode: ask
+agent: ask
 description: 'Asks the user to confirm the identified hosting model'
 ---
 

@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: 'Orchestrates General section of the PQA'
 ---
 

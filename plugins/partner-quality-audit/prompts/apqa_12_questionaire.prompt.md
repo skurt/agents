@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: 'Loads questionnaire responses from the project root folder'
 ---
 

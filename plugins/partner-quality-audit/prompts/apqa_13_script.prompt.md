@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: 'Runs the IbK diagnostic script and collects its output'
 ---
 # Terminology

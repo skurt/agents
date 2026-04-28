@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 description: 'Converts the structured output markdown file into a final HTML document'
 ---
 
